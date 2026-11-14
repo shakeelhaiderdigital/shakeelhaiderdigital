@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shakeel Haider 👋
 
-<!--
-**shakeelhaiderdigital/shakeelhaiderdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Marketing & Web Development
 
-Here are some ideas to get you started:
+I help businesses build and improve their online presence through website development, social media management, and digital marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills & Services
+
+**Digital Marketing & Social Media**
+- Social Media Management
+- Content Calendar Planning
+- Content Strategy
+- Social Media Content Publishing
+- Meta Ads Campaign Management
+
+**Web Development**
+- Business Website Development
+- Responsive Web Design
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### What I'm Working On
+- Building modern business websites.
+- Creating social media strategies and content calendars.
+- Managing digital content and marketing campaigns.
+- Improving my web development and digital marketing skills.
+
+### Featured Projects
+- Apex Dental — Website Concept
+- Root Care Dental — Website Concept
+
+### Let's Connect
+
+Open to website development projects, digital marketing opportunities, social media management, and collaborations.
